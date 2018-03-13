@@ -1,0 +1,4 @@
+<paths>
+    <files-path name="tmp_backup" path="/"/>
+    <external-files-path name="dir_backup" path="/Backup"/>
+</paths>

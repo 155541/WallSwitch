@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WallpaperSwitcher</string>
+    <string name="content_description_holder">picked img to show in wallpaper</string>
+</resources>
